@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "c20b5b7362d8d7bb7eddf94344ace33e",
-    "url": "/sahayak/static/media/fa-regular-400.c20b5b73.woff2"
+    "revision": "f89ea91ecd1ca2db7e09baa2c4b156d1",
+    "url": "/sahayak/static/media/fa-regular-400.f89ea91e.woff"
   },
   {
     "revision": "36a32fca5e1caf5a57ac",
     "url": "/sahayak/static/css/main.009a0425.chunk.css"
   },
   {
-    "revision": "11911410dca2de148f30954eb2fd5eab",
-    "url": "/sahayak/static/media/arrow_left.11911410.svg"
+    "revision": "8ef6a08cdc1154920165680a4edde771",
+    "url": "/sahayak/static/media/arrow_right.8ef6a08c.svg"
   },
   {
     "revision": "166b1bb9f68c10cf6e55",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/sahayak/static/media/fa-brands-400.c1868c95.eot"
   },
   {
-    "revision": "261d666b0147c6c5cda07265f98b8f8c",
-    "url": "/sahayak/static/media/fa-regular-400.261d666b.eot"
+    "revision": "c20b5b7362d8d7bb7eddf94344ace33e",
+    "url": "/sahayak/static/media/fa-regular-400.c20b5b73.woff2"
   },
   {
-    "revision": "f89ea91ecd1ca2db7e09baa2c4b156d1",
-    "url": "/sahayak/static/media/fa-regular-400.f89ea91e.woff"
+    "revision": "261d666b0147c6c5cda07265f98b8f8c",
+    "url": "/sahayak/static/media/fa-regular-400.261d666b.eot"
   },
   {
     "revision": "36a32fca5e1caf5a57ac",
@@ -64,20 +64,20 @@ self.__precacheManifest = [
     "url": "/sahayak/static/media/fa-brands-400.13685372.ttf"
   },
   {
-    "revision": "89ffa3aba80d30ee0a9371b25c968bbb",
-    "url": "/sahayak/static/media/fa-regular-400.89ffa3ab.svg"
-  },
-  {
     "revision": "b15db15f746f29ffa02638cb455b8ec0",
     "url": "/sahayak/static/media/fa-solid-900.b15db15f.woff2"
   },
   {
-    "revision": "bea989e82b07e9687c26fc58a4805021",
-    "url": "/sahayak/static/media/fa-solid-900.bea989e8.woff"
+    "revision": "89ffa3aba80d30ee0a9371b25c968bbb",
+    "url": "/sahayak/static/media/fa-regular-400.89ffa3ab.svg"
   },
   {
     "revision": "a0369ea57eb6d3843d6474c035111f29",
     "url": "/sahayak/static/media/fa-solid-900.a0369ea5.eot"
+  },
+  {
+    "revision": "bea989e82b07e9687c26fc58a4805021",
+    "url": "/sahayak/static/media/fa-solid-900.bea989e8.woff"
   },
   {
     "revision": "1ab236ed440ee51810c56bd16628aef0",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/sahayak/static/media/fa-solid-900.ec763292.svg"
   },
   {
-    "revision": "8ef6a08cdc1154920165680a4edde771",
-    "url": "/sahayak/static/media/arrow_right.8ef6a08c.svg"
+    "revision": "11911410dca2de148f30954eb2fd5eab",
+    "url": "/sahayak/static/media/arrow_left.11911410.svg"
   },
   {
     "revision": "166b1bb9f68c10cf6e55",
